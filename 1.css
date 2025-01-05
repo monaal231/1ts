@@ -1,0 +1,589 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+body,html{
+
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+
+.page1{
+
+width:100vw;
+height:100vh;
+background-image: url("Path.png");
+background-position: right;
+background-repeat: no-repeat;
+background-size: auto;
+
+
+
+}
+
+.page2{
+
+    width:100%;
+    height:100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.page3{
+
+    width: 1440px;
+    height:800px;
+    top: 1852px;
+    left: -4px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+
+}
+
+
+
+
+.left1{
+    position: relative;
+    width: 400.37px;
+    height: 316px;
+    top: 200px;
+    left: 104.12px;
+    padding: 0px 0.37px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+    bottom: 100px;
+}
+.left2{
+
+    position: relative;
+    width: 400.37px;
+    height: 316px;
+    top: 200px;
+    left: 163.12px;
+    padding: 0px 0.37px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+    bottom: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+.left1 h1{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 550px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 539px;
+    height: 132px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    
+
+}
+.left2 h1{
+    position:relative;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 550px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 539px;
+    height: 132px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+    top:40px;
+    
+
+}
+
+.left1 p{
+
+    width: 539px;
+    height: 164px;
+    top: 152px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: justify;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #505F98;
+}
+.left2 p{
+
+    width: 539px;
+    height: 164px;
+    top: 152px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: justify;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #505F98;
+}
+.but1{
+    
+    width: 189px;
+    height: 36px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background-color:#111B47 ;
+    color: #FFFFFF;
+
+}
+.but2{
+
+    width: 189.13px;
+    height: 36px;
+    top: 688px;
+    left: 382.27px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #FFFFFF;
+    color: #091133;
+    
+
+    
+}
+.right1 img{
+    position: relative;
+    height: 493px;
+    width: 474px;
+    left:1034px;
+    bottom: 124px;
+
+}
+.right2 img{
+    position: relative;
+    height: 493px;
+    width: 474px;
+    left: 826px;px;
+    bottom: 124px;
+
+}
+.left3 img{
+    position: relative;
+    left: 203px;
+    top: 248px;
+
+    
+}
+.right3{
+
+position: relative;
+left:784px;
+top:-55px;
+}
+
+
+
+
+.right3 h1{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 550px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 539px;
+    height: 132px;
+    gap: 0px;
+    opacity: 0px;
+    color: #091133;
+
+}
+.right3 p{
+
+    width: 539px;
+    height: 164px;
+    top: 152px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: justify;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #505F98;
+
+
+}
+
+.ls{
+    width: 1440px;
+    height:800px;
+    top: 1852px;
+    left: -4px;
+    gap: 0px;
+    opacity: 0px;
+}
+.centers h1{
+    position: relative;
+    width: 600px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+    top:42px;
+    left:495px;
+    color:#091133;
+
+}
+.centers p{
+
+    width: 600px;
+    height: 78px;
+    gap: 0px;
+    opacity: 0px;
+    position: relative;
+    left: 548px;
+    top: -139px;
+text-align: center;
+}
+
+
+.do h1{
+    styleName: Medium 50;
+    font-family: Roboto;
+    font-size: 120px;
+    font-weight: 700px;
+    line-height: 66px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-transform: uppercase;
+    font-size: xx-large;
+    
+}
+.me p{
+    position: relative;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    left:496px;
+    top:34px;
+
+}
+.we .but1{
+    position: relative;
+    width: 189px;
+    height: 24px;
+    top: 4px;
+    gap: 0px;
+    opacity: 0px;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 24px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+top:-18px;
+left:700px;
+
+     
+
+}
+
+.copy{
+position:absolute;
+top:100px;
+right:100px;
+left:10px;
+top:20px;
+}
+.center{
+text-align: center;
+}
+.me{
+    position: relative;
+text-align: center;
+top:40px;
+
+
+}
+.do{
+position:relative;
+left:0px;
+top:33px;
+
+}
+.o{
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+position: relative;
+top: 197px;
+left: -24px;
+color:#6F7CB2;
+
+
+}
+
+
+
+
+.y{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+
+
+}
+.do h1{
+position: relative;
+top:
+
+
+
+}
+.we .but1{
+position:relative;
+top: 29px;
+left: 699px;
+}
+
+.footer{
+
+    width: 1440px;
+    height: 216px;
+    top: 4412px;
+    gap: 0px;
+    opacity: 0px;
+    border: 3px solid red;
+
+}
+.but3{
+position: relative;
+width: 109px;
+height: 26px;
+top: 98px;
+left: 719px;
+
+
+}
+    
+
+.z{
+    position: absoute;
+    styleName: Medium 14;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+}
+
+.ls .z{
+
+position: relative;
+top: 238px;
+    left: -724px;
+}
+.a{
+position: relative;
+top: 238px;
+    left: 1402px;
+
+}
+.but5{
+    position: relative;
+    width: 109px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #111B47;
+    color:white;
+    left: -20px;
+    bottom: 215px;
+
+}
+.line{
+    position: relative;
+    top: -118px;
+    width: 1444px;
+    left: 39px;
+}
+
+
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: transparent;
+  height: 24px;
+  top: 18px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  color: #505F98;
+  
+  
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  styleName: Regular 14;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #444; 
+    font-size: 16px;
+  }
+  
+  .nav-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #364f8d; 
+  }
+  
+  .buy-now {
+    background-color: #1d2341; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .but7{
+    width: 189px;
+    height: 36px;
+    gap: 0px;
+    border-radius: 2px 0px 0px 0px;
+    opacity: 0px;
+    background-color:#111B47 ;
+    color: #FFFFFF;
+
+  }
+  .joker{
+       position: relative;
+       left: 1302px;
+       top: -9px;
+
+
+
+  }
+  .ls{
+
+    width: 1618px;
+    height: 815px;
+    align-items: center;
+    background-color:#E7ECFF;
+    background-repeat: no-repeat;
+  }
+  .navbar1{
+         position: relative;
+         left: 41px;
+         top: -87px;
+  }
+
+ ion-icon{
+
+    width: 30px;
+    height: 30px;
+    color:grey;
+ 
+ }
+ .social{
+    position: relative;
+    width:20%;
+display: flex;
+justify-content: space-between;
+left: 1209px;
+bottom: 108px;
+ }
+
+
+ .centers{
+
+position: relative;
+left: -2px;
+bottom: -199px;
+ }
+
+
+ .lad{
+
+     position: relative;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    left: -46px;
+    bottom: -214px;
+    color:#5D6970;
+ }
